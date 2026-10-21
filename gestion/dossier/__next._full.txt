@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3727-02i72m06.js"
+3:I[42194,["$2"],"default"]
+4:I[5817,["$2"],"default"]
+5:"/_next/static/chunks/2d64q6y510tt-.js"
+6:I[8505,["$2","$5"],""]
+b:"/_next/static/chunks/1p6ks32ils5vq.js"
+c:"/_next/static/chunks/1t307vsdlt3bs.js"
+d:I[28126,["$2","$b","$c"],"AppFrame"]
+e:"$Sreact.suspense"
+f:"TicketDetailView"
+10:I[18715,["$2","$b","$c"],"$f"]
+11:I[13693,["$2"],"OutletBoundary"]
+13:"ViewportBoundary"
+14:I[13693,["$2"],"$13"]
+16:"MetadataBoundary"
+17:I[13693,["$2"],"$16"]
+19:I[35733,["$2"],"default",1]
+:HL["/_next/static/chunks/36algj4gby494.css","style"]
+8:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Ld",null,{"space":"gestion","children":["$","$e",null,{"fallback":["$","p",null,{"className":"text-sm text-ink-muted","children":"Chargement…"}],"children":["$","$L10",null,{}]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/1p6ks32ils5vq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1t307vsdlt3bs.js","async":true,"nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":"dossier","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Qa"}]]
+7:[["children",{"s":"gestion","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
+0:{"P":null,"c":["","gestion","dossier",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36algj4gby494.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3727-02i72m06.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"fr-CH","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto max-w-xl px-4 py-16 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Page introuvable"}],["$","p",null,{"className":"mt-2 text-ink-muted","children":"Cette page n'existe pas dans le démonstrateur."}],["$","$L6",null,{"href":"/","className":"mt-4 inline-block text-royal underline","children":"Retour à l'accueil"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36algj4gby494.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DPXhPSD0Ulr1evKCI569k"}
+8:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0B192C"}]]
+1a:I[14017,["$2"],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Dossier · PROPULSIO"}],["$","meta","1",{"name":"description","content":"Démonstrateur de la plateforme de régie immobilière PROPULSIO : cockpit gérant, Pulse Hub, Pulse Home et Pulse Pro, avec des données entièrement fictives."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"icon","href":"/icon.svg"}],["$","$L1a","5",{}]]
