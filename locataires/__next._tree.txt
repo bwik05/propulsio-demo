@@ -1,4 +1,4 @@
-:HL["/propulsio-demo/_next/static/chunks/36algj4gby494.css","style"]
+:HL["/_next/static/chunks/36algj4gby494.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"locataires","h":96,"c":"$Q2"}]]
-0:{"b":"q2_ZeS7SvRc04AKlftubl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1mF3ve21TYyxwGDfpQzSQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
