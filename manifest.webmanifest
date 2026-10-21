@@ -3,9 +3,10 @@
   "short_name": "PROPULSIO",
   "description": "Régie immobilière augmentée : démonstrateur à données fictives",
   "lang": "fr-CH",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#F8FAFC",
   "theme_color": "#0B192C",
-  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
 }
